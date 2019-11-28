@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--修改默认（未选中）的文字大小 -->
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">12sp</dimen>
+    <!--修改选中的文字大小 -->
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">12sp</dimen>
+    <!--icon与文本之间的间距-->
+    <dimen name="design_bottom_navigation_margin" tools:override="true">10dp</dimen>
+
+<!--    <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>//选中时的最大宽度-->
+<!--    <dimen name="design_bottom_navigation_elevation">8dp</dimen>//阴影的大小-->
+<!--    <dimen name="design_bottom_navigation_height">56dp</dimen>//高度-->
+<!--    <dimen name="design_bottom_navigation_item_max_width">96dp</dimen>//未选中的最大宽度-->
+<!--    <dimen name="design_bottom_navigation_item_min_width">56dp</dimen>//未选中的最小的宽度-->
+<!--    <dimen name="design_bottom_navigation_shadow_height">1dp</dimen>//阴影高度-->
+
+</resources>
