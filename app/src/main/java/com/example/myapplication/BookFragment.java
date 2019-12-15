@@ -22,18 +22,18 @@ public class BookFragment extends Fragment {
     @Override
     public void onStart() {
         super.onStart();
-        Log.e(TAG, "onStart: ");
+        Log.e(TAG, "onStart: 1");
     }
 
     @Override
     public void onResume() {
         super.onResume();
-        Log.e(TAG, "onResume: ");
+        Log.e(TAG, "onResume: 1");
     }
 
     @Override
     public void onPause() {
         super.onPause();
-        Log.e(TAG, "onPause: ");
+        Log.e(TAG, "onPause: 1");
     }
 }
